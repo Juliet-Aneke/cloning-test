@@ -33,6 +33,7 @@
 }
 
 .social-links span{
+    margin-bottom: 1rem;
     color:rgb(180, 95, 16);
     font-size: 50px;
     display: flex;
