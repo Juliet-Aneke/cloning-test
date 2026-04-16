@@ -106,6 +106,13 @@ gap: 0.5rem;
 }
 
  
+footer {
+    background-color: rgb(61, 61, 61);
+    color: #f6f6f6;
+    padding: 5rem 0;
+    text-align: center;
+
+}
 
 /*---------MEDIA QUERY-------------*/
 
